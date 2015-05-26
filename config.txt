@@ -1,0 +1,9 @@
+USER_NAME=dvd
+USER_PASSWORD=dvd
+DB_IP=localhost
+DB_PORT=3306
+DB_NAME=dvd_db
+DB_USER=dvd
+DB_PASSWORD=dvd
+#FILE_DOWNLOAD_PATH=D:\		line starts with # is considered as commented
+FILE_DOWNLOAD_PATH=F:\ATTACHMENTS
